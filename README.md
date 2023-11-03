@@ -1,6 +1,6 @@
 # Projeto de Login com Bootstrap
 
-![Página de Login](img/login-screenshot.png)
+![Página de Login]
 
 ## Recursos Utilizados
 
